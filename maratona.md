@@ -15,4 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Como Treinar o Seu dragão
 - [ ] Invocação do mal 2
-
+- [ ] harry potter: a pedra filosofal
+- [ ] animais fantasticos e onde habitam
