@@ -10,6 +10,9 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Matrix
 
 ### Fantasia
-- [ ] O Senhor dos Anéis: A Sociedade do Anel
+- [ ] Harry potter e a ordem da fênix
 - [ ] A Viagem de Chihiro
 - [ ] O Labirinto do Fauno
+- [ ] Como Treinar o Seu dragão
+- [ ] Invocação do mal 2
+
